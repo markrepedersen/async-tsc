@@ -1,0 +1,2 @@
+* Abstract
+A high abstraction, very low cost timer for use in async functions in Rust.
